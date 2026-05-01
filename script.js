@@ -5,4 +5,3 @@ function handleClick() {
     let cont = 0;
     cont++;
     alert("Button Clicked!");
-}
